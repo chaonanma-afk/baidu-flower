@@ -2,64 +2,64 @@
   {
     "name": "张函瑞",
     "id": "64761230",
-    "today_gift": 30102,
-    "today_users": 1742,
-    "avg": 17.28,
-    "total_gift": 26154374,
+    "today_gift": 31013,
+    "today_users": 1777,
+    "avg": 17.45,
+    "total_gift": 26155285,
     "status": "成功"
   },
   {
     "name": "陈奕恒",
     "id": "64786973",
-    "today_gift": 93163,
-    "today_users": 4263,
-    "avg": 21.85,
-    "total_gift": 16051009,
-    "status": "成功"
-  },
-  {
-    "name": "张桂源",
-    "id": "64767448",
-    "today_gift": 39463,
-    "today_users": 1911,
-    "avg": 20.65,
-    "total_gift": 16380684,
+    "today_gift": 95471,
+    "today_users": 4351,
+    "avg": 21.94,
+    "total_gift": 16053317,
     "status": "成功"
   },
   {
     "name": "左奇函",
     "id": "60705549",
-    "today_gift": 32748,
-    "today_users": 2367,
-    "avg": 13.84,
-    "total_gift": 14461677,
+    "today_gift": 33315,
+    "today_users": 2397,
+    "avg": 13.9,
+    "total_gift": 14462244,
+    "status": "成功"
+  },
+  {
+    "name": "张桂源",
+    "id": "64767448",
+    "today_gift": 40048,
+    "today_users": 1943,
+    "avg": 20.61,
+    "total_gift": 16381268,
     "status": "成功"
   },
   {
     "name": "王橹杰",
     "id": "64787018",
-    "today_gift": 91781,
-    "today_users": 3295,
-    "avg": 27.85,
-    "total_gift": 42596036,
+    "today_gift": 94187,
+    "today_users": 3350,
+    "avg": 28.12,
+    "total_gift": 42598442,
     "status": "成功"
   },
   {
     "name": "杨博文",
     "id": "64790097",
-    "today_gift": 24853,
-    "today_users": 1914,
+    "today_gift": 25186,
+    "today_users": 1941,
     "avg": 12.98,
-    "total_gift": 28946267,
+    "total_gift": 28946600,
     "status": "成功"
   },
   {
     "name": "陈浚铭",
     "id": "64762675",
-    "today_gift": 28080,
-    "today_users": 1817,
-    "avg": 15.45,
-    "total_gift": 20044855,
+    "today_gift": 28713,
+    "today_users": 1850,
+    "avg": 15.52,
+    "total_gift": 20045488,
     "status": "成功"
   }
 ]
