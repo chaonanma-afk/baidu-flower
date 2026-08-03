@@ -2,64 +2,64 @@
   {
     "name": "张函瑞",
     "id": "64761230",
-    "today_gift": 66808,
-    "today_users": 2877,
-    "avg": 23.22,
-    "total_gift": 26310357,
+    "today_gift": 68086,
+    "today_users": 2902,
+    "avg": 23.46,
+    "total_gift": 26311635,
     "status": "成功"
   },
   {
     "name": "陈奕恒",
     "id": "64786973",
-    "today_gift": 160013,
-    "today_users": 6381,
-    "avg": 25.08,
-    "total_gift": 16354879,
-    "status": "成功"
-  },
-  {
-    "name": "左奇函",
-    "id": "60705549",
-    "today_gift": 71627,
-    "today_users": 4253,
-    "avg": 16.84,
-    "total_gift": 14623105,
+    "today_gift": 161589,
+    "today_users": 6451,
+    "avg": 25.05,
+    "total_gift": 16356455,
     "status": "成功"
   },
   {
     "name": "张桂源",
     "id": "64767448",
-    "today_gift": 63678,
-    "today_users": 3158,
-    "avg": 20.16,
-    "total_gift": 16515644,
+    "today_gift": 64156,
+    "today_users": 3194,
+    "avg": 20.09,
+    "total_gift": 16516122,
+    "status": "成功"
+  },
+  {
+    "name": "左奇函",
+    "id": "60705549",
+    "today_gift": 72571,
+    "today_users": 4285,
+    "avg": 16.94,
+    "total_gift": 14624049,
     "status": "成功"
   },
   {
     "name": "王橹杰",
     "id": "64787018",
-    "today_gift": 216034,
-    "today_users": 5912,
-    "avg": 36.54,
-    "total_gift": 43098333,
-    "status": "成功"
-  },
-  {
-    "name": "杨博文",
-    "id": "64790097",
-    "today_gift": 74245,
-    "today_users": 3636,
-    "avg": 20.42,
-    "total_gift": 29143559,
+    "today_gift": 220336,
+    "today_users": 5993,
+    "avg": 36.77,
+    "total_gift": 43102635,
     "status": "成功"
   },
   {
     "name": "陈浚铭",
     "id": "64762675",
-    "today_gift": 72314,
-    "today_users": 3199,
-    "avg": 22.61,
-    "total_gift": 20222677,
+    "today_gift": 74193,
+    "today_users": 3242,
+    "avg": 22.88,
+    "total_gift": 20224557,
+    "status": "成功"
+  },
+  {
+    "name": "杨博文",
+    "id": "64790097",
+    "today_gift": 76165,
+    "today_users": 3671,
+    "avg": 20.75,
+    "total_gift": 29145479,
     "status": "成功"
   }
 ]
