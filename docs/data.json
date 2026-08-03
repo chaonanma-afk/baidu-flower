@@ -1,65 +1,65 @@
 [
   {
-    "name": "张函瑞",
-    "id": "64761230",
-    "today_gift": 37508,
-    "today_users": 2010,
-    "avg": 18.66,
-    "total_gift": 26281057,
-    "status": "成功"
-  },
-  {
-    "name": "左奇函",
-    "id": "60705549",
-    "today_gift": 43571,
-    "today_users": 3075,
-    "avg": 14.17,
-    "total_gift": 14595049,
+    "name": "陈奕恒",
+    "id": "64786973",
+    "today_gift": 109704,
+    "today_users": 4509,
+    "avg": 24.33,
+    "total_gift": 16304570,
     "status": "成功"
   },
   {
     "name": "张桂源",
     "id": "64767448",
-    "today_gift": 41668,
-    "today_users": 2308,
-    "avg": 18.05,
-    "total_gift": 16493634,
+    "today_gift": 42812,
+    "today_users": 2342,
+    "avg": 18.28,
+    "total_gift": 16494778,
     "status": "成功"
   },
   {
-    "name": "陈奕恒",
-    "id": "64786973",
-    "today_gift": 107852,
-    "today_users": 4442,
-    "avg": 24.28,
-    "total_gift": 16302718,
+    "name": "张函瑞",
+    "id": "64761230",
+    "today_gift": 38474,
+    "today_users": 2041,
+    "avg": 18.85,
+    "total_gift": 26282024,
+    "status": "成功"
+  },
+  {
+    "name": "左奇函",
+    "id": "60705549",
+    "today_gift": 44270,
+    "today_users": 3114,
+    "avg": 14.22,
+    "total_gift": 14595748,
     "status": "成功"
   },
   {
     "name": "王橹杰",
     "id": "64787018",
-    "today_gift": 126466,
-    "today_users": 4104,
-    "avg": 30.82,
-    "total_gift": 43008765,
+    "today_gift": 128679,
+    "today_users": 4155,
+    "avg": 30.97,
+    "total_gift": 43010978,
     "status": "成功"
   },
   {
     "name": "杨博文",
     "id": "64790097",
-    "today_gift": 39392,
-    "today_users": 2484,
+    "today_gift": 39915,
+    "today_users": 2517,
     "avg": 15.86,
-    "total_gift": 29108706,
+    "total_gift": 29109229,
     "status": "成功"
   },
   {
     "name": "陈浚铭",
     "id": "64762675",
-    "today_gift": 40719,
-    "today_users": 2236,
-    "avg": 18.21,
-    "total_gift": 20191082,
+    "today_gift": 42058,
+    "today_users": 2281,
+    "avg": 18.44,
+    "total_gift": 20192421,
     "status": "成功"
   }
 ]
