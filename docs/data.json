@@ -2,64 +2,64 @@
   {
     "name": "左奇函",
     "id": "60705549",
-    "today_gift": 56871,
-    "today_users": 2757,
-    "avg": 20.63,
-    "total_gift": 15816097,
+    "today_gift": 57995,
+    "today_users": 2783,
+    "avg": 20.84,
+    "total_gift": 15817221,
     "status": "成功"
   },
   {
     "name": "张桂源",
     "id": "64767448",
-    "today_gift": 88110,
-    "today_users": 3859,
-    "avg": 22.83,
-    "total_gift": 17694781,
-    "status": "成功"
-  },
-  {
-    "name": "陈奕恒",
-    "id": "64786973",
-    "today_gift": 103156,
-    "today_users": 5109,
-    "avg": 20.19,
-    "total_gift": 18603402,
+    "today_gift": 89125,
+    "today_users": 3882,
+    "avg": 22.96,
+    "total_gift": 17695797,
     "status": "成功"
   },
   {
     "name": "张函瑞",
     "id": "64761230",
-    "today_gift": 71836,
-    "today_users": 2765,
-    "avg": 25.98,
-    "total_gift": 27631505,
+    "today_gift": 73812,
+    "today_users": 2809,
+    "avg": 26.28,
+    "total_gift": 27633481,
     "status": "成功"
   },
   {
     "name": "王橹杰",
     "id": "64787018",
-    "today_gift": 144555,
-    "today_users": 5565,
-    "avg": 25.98,
-    "total_gift": 46566659,
-    "status": "成功"
-  },
-  {
-    "name": "陈浚铭",
-    "id": "64762675",
-    "today_gift": 76022,
-    "today_users": 3216,
-    "avg": 23.64,
-    "total_gift": 21695071,
+    "today_gift": 147885,
+    "today_users": 5625,
+    "avg": 26.29,
+    "total_gift": 46569989,
     "status": "成功"
   },
   {
     "name": "杨博文",
     "id": "64790097",
-    "today_gift": 71359,
-    "today_users": 4001,
-    "avg": 17.84,
-    "total_gift": 30682362,
+    "today_gift": 72992,
+    "today_users": 4030,
+    "avg": 18.11,
+    "total_gift": 30683995,
     "status": "成功"
+  },
+  {
+    "name": "陈浚铭",
+    "id": "64762675",
+    "today_gift": 78225,
+    "today_users": 3250,
+    "avg": 24.07,
+    "total_gift": 21697274,
+    "status": "成功"
+  },
+  {
+    "name": "陈奕恒",
+    "id": "64786973",
+    "today_gift": 0,
+    "today_users": 0,
+    "avg": 0,
+    "total_gift": 18605182,
+    "status": "异常: HTTPSConnectionPool(host='figure.baidu.com', port=443): Read timed out. (read timeout=10)"
   }
 ]
