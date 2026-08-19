@@ -2,64 +2,64 @@
   {
     "name": "张桂源",
     "id": "64767448",
-    "today_gift": 33848,
-    "today_users": 2144,
-    "avg": 15.79,
-    "total_gift": 17880237,
+    "today_gift": 34254,
+    "today_users": 2158,
+    "avg": 15.87,
+    "total_gift": 17880643,
     "status": "成功"
   },
   {
     "name": "张函瑞",
     "id": "64761230",
-    "today_gift": 39834,
-    "today_users": 2302,
-    "avg": 17.3,
-    "total_gift": 27844019,
-    "status": "成功"
-  },
-  {
-    "name": "左奇函",
-    "id": "60705549",
-    "today_gift": 21160,
-    "today_users": 1631,
-    "avg": 12.97,
-    "total_gift": 15957505,
-    "status": "成功"
-  },
-  {
-    "name": "王橹杰",
-    "id": "64787018",
-    "today_gift": 84757,
-    "today_users": 3787,
-    "avg": 22.38,
-    "total_gift": 47015690,
+    "today_gift": 40202,
+    "today_users": 2317,
+    "avg": 17.35,
+    "total_gift": 27844387,
     "status": "成功"
   },
   {
     "name": "陈奕恒",
     "id": "64786973",
-    "today_gift": 72161,
-    "today_users": 3335,
-    "avg": 21.64,
-    "total_gift": 18924756,
+    "today_gift": 73048,
+    "today_users": 3362,
+    "avg": 21.73,
+    "total_gift": 18925644,
+    "status": "成功"
+  },
+  {
+    "name": "左奇函",
+    "id": "60705549",
+    "today_gift": 21861,
+    "today_users": 1652,
+    "avg": 13.23,
+    "total_gift": 15958206,
+    "status": "成功"
+  },
+  {
+    "name": "王橹杰",
+    "id": "64787018",
+    "today_gift": 85909,
+    "today_users": 3832,
+    "avg": 22.42,
+    "total_gift": 47016842,
     "status": "成功"
   },
   {
     "name": "陈浚铭",
     "id": "64762675",
-    "today_gift": 35315,
-    "today_users": 1966,
-    "avg": 17.96,
-    "total_gift": 21913067,
+    "today_gift": 35617,
+    "today_users": 1986,
+    "avg": 17.93,
+    "total_gift": 21913369,
     "status": "成功"
   },
   {
     "name": "杨博文",
     "id": "64790097",
-    "today_gift": 33533,
-    "today_users": 2080,
-    "avg": 16.12,
-    "total_gift": 30878522,
+    "today_gift": 34051,
+    "today_users": 2106,
+    "avg": 16.17,
+    "total_gift": 30879040,
     "status": "成功"
   }
 ]
