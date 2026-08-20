@@ -2,64 +2,64 @@
   {
     "name": "张桂源",
     "id": "64767448",
-    "today_gift": 9125,
-    "today_users": 567,
-    "avg": 16.09,
-    "total_gift": 18007161,
-    "status": "成功"
-  },
-  {
-    "name": "王橹杰",
-    "id": "64787018",
-    "today_gift": 18800,
-    "today_users": 1030,
-    "avg": 18.25,
-    "total_gift": 47370764,
-    "status": "成功"
-  },
-  {
-    "name": "左奇函",
-    "id": "60705549",
-    "today_gift": 4528,
-    "today_users": 421,
-    "avg": 10.76,
-    "total_gift": 16054784,
+    "today_gift": 9186,
+    "today_users": 578,
+    "avg": 15.89,
+    "total_gift": 18007222,
     "status": "成功"
   },
   {
     "name": "张函瑞",
     "id": "64761230",
-    "today_gift": 5978,
-    "today_users": 412,
-    "avg": 14.51,
-    "total_gift": 27993989,
+    "today_gift": 6308,
+    "today_users": 423,
+    "avg": 14.91,
+    "total_gift": 27994319,
+    "status": "成功"
+  },
+  {
+    "name": "左奇函",
+    "id": "60705549",
+    "today_gift": 4672,
+    "today_users": 425,
+    "avg": 10.99,
+    "total_gift": 16054928,
+    "status": "成功"
+  },
+  {
+    "name": "王橹杰",
+    "id": "64787018",
+    "today_gift": 19686,
+    "today_users": 1050,
+    "avg": 18.75,
+    "total_gift": 47371650,
     "status": "成功"
   },
   {
     "name": "陈奕恒",
     "id": "64786973",
-    "today_gift": 13731,
-    "today_users": 736,
-    "avg": 18.66,
-    "total_gift": 19146240,
+    "today_gift": 14214,
+    "today_users": 755,
+    "avg": 18.83,
+    "total_gift": 19146723,
     "status": "成功"
   },
   {
     "name": "杨博文",
     "id": "64790097",
-    "today_gift": 6345,
-    "today_users": 482,
-    "avg": 13.16,
-    "total_gift": 31033246,
+    "today_gift": 6602,
+    "today_users": 489,
+    "avg": 13.5,
+    "total_gift": 31033503,
     "status": "成功"
   },
   {
     "name": "陈浚铭",
     "id": "64762675",
-    "today_gift": 6681,
-    "today_users": 518,
-    "avg": 12.9,
-    "total_gift": 22112616,
+    "today_gift": 6896,
+    "today_users": 531,
+    "avg": 12.99,
+    "total_gift": 22112831,
     "status": "成功"
   }
 ]
