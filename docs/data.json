@@ -1,65 +1,65 @@
 [
   {
-    "name": "张函瑞",
-    "id": "64761230",
-    "today_gift": 21140,
-    "today_users": 1451,
-    "avg": 14.57,
-    "total_gift": 28091008,
-    "status": "成功"
-  },
-  {
-    "name": "左奇函",
-    "id": "60705549",
-    "today_gift": 15168,
-    "today_users": 1246,
-    "avg": 12.17,
-    "total_gift": 16127803,
-    "status": "成功"
-  },
-  {
     "name": "张桂源",
     "id": "64767448",
-    "today_gift": 20577,
-    "today_users": 1352,
-    "avg": 15.22,
-    "total_gift": 18093183,
+    "today_gift": 21007,
+    "today_users": 1362,
+    "avg": 15.42,
+    "total_gift": 18093613,
     "status": "成功"
   },
   {
-    "name": "王橹杰",
-    "id": "64787018",
-    "today_gift": 51403,
-    "today_users": 2771,
-    "avg": 18.55,
-    "total_gift": 47620636,
+    "name": "张函瑞",
+    "id": "64761230",
+    "today_gift": 21452,
+    "today_users": 1465,
+    "avg": 14.64,
+    "total_gift": 28091320,
     "status": "成功"
   },
   {
     "name": "陈奕恒",
     "id": "64786973",
-    "today_gift": 47105,
-    "today_users": 3109,
-    "avg": 15.15,
-    "total_gift": 19319781,
+    "today_gift": 48350,
+    "today_users": 3146,
+    "avg": 15.37,
+    "total_gift": 19321027,
+    "status": "成功"
+  },
+  {
+    "name": "左奇函",
+    "id": "60705549",
+    "today_gift": 15865,
+    "today_users": 1267,
+    "avg": 12.52,
+    "total_gift": 16128500,
+    "status": "成功"
+  },
+  {
+    "name": "王橹杰",
+    "id": "64787018",
+    "today_gift": 52803,
+    "today_users": 2829,
+    "avg": 18.66,
+    "total_gift": 47622036,
     "status": "成功"
   },
   {
     "name": "杨博文",
     "id": "64790097",
-    "today_gift": 24724,
-    "today_users": 2284,
-    "avg": 10.82,
-    "total_gift": 31142983,
+    "today_gift": 25184,
+    "today_users": 2296,
+    "avg": 10.97,
+    "total_gift": 31143443,
     "status": "成功"
   },
   {
     "name": "陈浚铭",
     "id": "64762675",
-    "today_gift": 21633,
-    "today_users": 1810,
-    "avg": 11.95,
-    "total_gift": 22232615,
+    "today_gift": 22922,
+    "today_users": 1837,
+    "avg": 12.48,
+    "total_gift": 22233905,
     "status": "成功"
   }
 ]
