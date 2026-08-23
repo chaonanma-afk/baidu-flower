@@ -1,5 +1,5 @@
 {
-  "update_time": "2026-08-24 04:58:46",
+  "update_time": "2026-08-24 05:00:47",
   "today": {
     "name": "杨博文",
     "id": "64790097",
@@ -10,9 +10,9 @@
     "status": "成功"
   },
   "yesterday": {
-    "timestamp": "2026-08-23 04:50:33",
-    "today_gift": 7379,
-    "today_users": 495,
-    "avg": 14.91
+    "timestamp": "2026-08-23 05:00:44",
+    "today_gift": 7390,
+    "today_users": 497,
+    "avg": 14.87
   }
 }
