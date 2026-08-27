@@ -1,65 +1,65 @@
 [
   {
-    "name": "张函瑞",
-    "id": "64761230",
-    "today_gift": 71152,
-    "today_users": 2628,
-    "avg": 27.07,
-    "total_gift": 28529347,
-    "status": "成功"
-  },
-  {
     "name": "左奇函",
     "id": "60705549",
-    "today_gift": 51088,
-    "today_users": 2245,
-    "avg": 22.76,
-    "total_gift": 16461959,
+    "today_gift": 52635,
+    "today_users": 2265,
+    "avg": 23.24,
+    "total_gift": 16463506,
     "status": "成功"
   },
   {
     "name": "张桂源",
     "id": "64767448",
-    "today_gift": 77901,
-    "today_users": 2912,
-    "avg": 26.75,
-    "total_gift": 18509943,
-    "status": "成功"
-  },
-  {
-    "name": "陈奕恒",
-    "id": "64786973",
-    "today_gift": 111087,
-    "today_users": 5219,
-    "avg": 21.29,
-    "total_gift": 20063603,
+    "today_gift": 80876,
+    "today_users": 2967,
+    "avg": 27.26,
+    "total_gift": 18512918,
     "status": "成功"
   },
   {
     "name": "王橹杰",
     "id": "64787018",
-    "today_gift": 211683,
-    "today_users": 6453,
-    "avg": 32.8,
-    "total_gift": 48928740,
+    "today_gift": 217640,
+    "today_users": 6582,
+    "avg": 33.07,
+    "total_gift": 48934817,
+    "status": "成功"
+  },
+  {
+    "name": "张函瑞",
+    "id": "64761230",
+    "today_gift": 73215,
+    "today_users": 2670,
+    "avg": 27.42,
+    "total_gift": 28531410,
+    "status": "成功"
+  },
+  {
+    "name": "陈奕恒",
+    "id": "64786973",
+    "today_gift": 114296,
+    "today_users": 5290,
+    "avg": 21.61,
+    "total_gift": 20066812,
     "status": "成功"
   },
   {
     "name": "杨博文",
     "id": "64790097",
-    "today_gift": 95268,
-    "today_users": 4275,
-    "avg": 22.28,
-    "total_gift": 31698306,
+    "today_gift": 97104,
+    "today_users": 4327,
+    "avg": 22.44,
+    "total_gift": 31700142,
     "status": "成功"
   },
   {
     "name": "陈浚铭",
     "id": "64762675",
-    "today_gift": 96166,
-    "today_users": 3908,
-    "avg": 24.61,
-    "total_gift": 22852736,
+    "today_gift": 97855,
+    "today_users": 3954,
+    "avg": 24.75,
+    "total_gift": 22854425,
     "status": "成功"
   }
 ]
