@@ -1,65 +1,65 @@
 [
   {
-    "name": "王橹杰",
-    "id": "64787018",
-    "today_gift": 140296,
-    "today_users": 4874,
-    "avg": 28.78,
-    "total_gift": 49333892,
-    "status": "成功"
-  },
-  {
     "name": "张函瑞",
     "id": "64761230",
-    "today_gift": 45107,
-    "today_users": 2204,
-    "avg": 20.47,
-    "total_gift": 28667081,
+    "today_gift": 45298,
+    "today_users": 2215,
+    "avg": 20.45,
+    "total_gift": 28667272,
     "status": "成功"
   },
   {
     "name": "左奇函",
     "id": "60705549",
-    "today_gift": 33399,
-    "today_users": 1850,
-    "avg": 18.05,
-    "total_gift": 16559569,
+    "today_gift": 33815,
+    "today_users": 1859,
+    "avg": 18.19,
+    "total_gift": 16559985,
+    "status": "成功"
+  },
+  {
+    "name": "王橹杰",
+    "id": "64787018",
+    "today_gift": 141650,
+    "today_users": 4908,
+    "avg": 28.86,
+    "total_gift": 49335246,
     "status": "成功"
   },
   {
     "name": "张桂源",
     "id": "64767448",
-    "today_gift": 47264,
-    "today_users": 2170,
-    "avg": 21.78,
-    "total_gift": 18642964,
+    "today_gift": 47735,
+    "today_users": 2177,
+    "avg": 21.93,
+    "total_gift": 18643435,
     "status": "成功"
   },
   {
     "name": "陈奕恒",
     "id": "64786973",
-    "today_gift": 79681,
-    "today_users": 4301,
-    "avg": 18.53,
-    "total_gift": 20282997,
-    "status": "成功"
-  },
-  {
-    "name": "陈浚铭",
-    "id": "64762675",
-    "today_gift": 66117,
-    "today_users": 3153,
-    "avg": 20.97,
-    "total_gift": 23042594,
+    "today_gift": 80057,
+    "today_users": 4325,
+    "avg": 18.51,
+    "total_gift": 20283373,
     "status": "成功"
   },
   {
     "name": "杨博文",
     "id": "64790097",
-    "today_gift": 62700,
-    "today_users": 3438,
-    "avg": 18.24,
-    "total_gift": 31878741,
+    "today_gift": 63019,
+    "today_users": 3458,
+    "avg": 18.22,
+    "total_gift": 31879061,
+    "status": "成功"
+  },
+  {
+    "name": "陈浚铭",
+    "id": "64762675",
+    "today_gift": 66830,
+    "today_users": 3176,
+    "avg": 21.04,
+    "total_gift": 23043306,
     "status": "成功"
   }
 ]
