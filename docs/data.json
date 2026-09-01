@@ -1,65 +1,65 @@
 [
   {
-    "name": "张函瑞",
-    "id": "64761230",
-    "today_gift": 5921,
-    "today_users": 374,
-    "avg": 15.83,
-    "total_gift": 28935068,
+    "name": "陈奕恒",
+    "id": "64786973",
+    "today_gift": 6596,
+    "today_users": 410,
+    "avg": 16.09,
+    "total_gift": 20601448,
     "status": "成功"
   },
   {
     "name": "左奇函",
     "id": "60705549",
-    "today_gift": 3135,
-    "today_users": 267,
-    "avg": 11.74,
-    "total_gift": 16732813,
+    "today_gift": 3138,
+    "today_users": 268,
+    "avg": 11.71,
+    "total_gift": 16732816,
     "status": "成功"
   },
   {
     "name": "张桂源",
     "id": "64767448",
-    "today_gift": 6526,
+    "today_gift": 6603,
     "today_users": 322,
-    "avg": 20.27,
-    "total_gift": 18872336,
+    "avg": 20.51,
+    "total_gift": 18872413,
+    "status": "成功"
+  },
+  {
+    "name": "张函瑞",
+    "id": "64761230",
+    "today_gift": 6026,
+    "today_users": 376,
+    "avg": 16.03,
+    "total_gift": 28935173,
     "status": "成功"
   },
   {
     "name": "王橹杰",
     "id": "64787018",
-    "today_gift": 15481,
-    "today_users": 877,
-    "avg": 17.65,
-    "total_gift": 50385308,
-    "status": "成功"
-  },
-  {
-    "name": "陈奕恒",
-    "id": "64786973",
-    "today_gift": 6517,
-    "today_users": 407,
-    "avg": 16.01,
-    "total_gift": 20601369,
-    "status": "成功"
-  },
-  {
-    "name": "杨博文",
-    "id": "64790097",
-    "today_gift": 6488,
-    "today_users": 534,
-    "avg": 12.15,
-    "total_gift": 32187501,
+    "today_gift": 15493,
+    "today_users": 883,
+    "avg": 17.55,
+    "total_gift": 50385320,
     "status": "成功"
   },
   {
     "name": "陈浚铭",
     "id": "64762675",
-    "today_gift": 5837,
-    "today_users": 391,
-    "avg": 14.93,
-    "total_gift": 23364377,
+    "today_gift": 5842,
+    "today_users": 393,
+    "avg": 14.87,
+    "total_gift": 23364382,
+    "status": "成功"
+  },
+  {
+    "name": "杨博文",
+    "id": "64790097",
+    "today_gift": 6516,
+    "today_users": 547,
+    "avg": 11.91,
+    "total_gift": 32187529,
     "status": "成功"
   }
 ]
