@@ -1,65 +1,65 @@
 [
   {
-    "name": "张桂源",
-    "id": "64767448",
-    "today_gift": 7044,
-    "today_users": 570,
-    "avg": 12.36,
-    "total_gift": 19037127,
-    "status": "成功"
-  },
-  {
-    "name": "陈奕恒",
-    "id": "64786973",
-    "today_gift": 13965,
-    "today_users": 1009,
-    "avg": 13.84,
-    "total_gift": 20797502,
+    "name": "张函瑞",
+    "id": "64761230",
+    "today_gift": 11178,
+    "today_users": 702,
+    "avg": 15.92,
+    "total_gift": 29105622,
     "status": "成功"
   },
   {
     "name": "左奇函",
     "id": "60705549",
-    "today_gift": 6393,
-    "today_users": 615,
-    "avg": 10.4,
-    "total_gift": 16852008,
+    "today_gift": 6468,
+    "today_users": 637,
+    "avg": 10.15,
+    "total_gift": 16852083,
+    "status": "成功"
+  },
+  {
+    "name": "陈奕恒",
+    "id": "64786973",
+    "today_gift": 14049,
+    "today_users": 1039,
+    "avg": 13.52,
+    "total_gift": 20797586,
+    "status": "成功"
+  },
+  {
+    "name": "张桂源",
+    "id": "64767448",
+    "today_gift": 7407,
+    "today_users": 586,
+    "avg": 12.64,
+    "total_gift": 19037490,
     "status": "成功"
   },
   {
     "name": "王橹杰",
     "id": "64787018",
-    "today_gift": 25488,
-    "today_users": 1500,
-    "avg": 16.99,
-    "total_gift": 50904698,
-    "status": "成功"
-  },
-  {
-    "name": "张函瑞",
-    "id": "64761230",
-    "today_gift": 10904,
-    "today_users": 689,
-    "avg": 15.83,
-    "total_gift": 29105348,
+    "today_gift": 25842,
+    "today_users": 1548,
+    "avg": 16.69,
+    "total_gift": 50905052,
     "status": "成功"
   },
   {
     "name": "杨博文",
     "id": "64790097",
-    "today_gift": 12505,
-    "today_users": 1132,
-    "avg": 11.05,
-    "total_gift": 32447191,
+    "today_gift": 12867,
+    "today_users": 1156,
+    "avg": 11.13,
+    "total_gift": 32447553,
     "status": "成功"
   },
   {
     "name": "陈浚铭",
     "id": "64762675",
-    "today_gift": 0,
-    "today_users": 0,
-    "avg": 0,
-    "total_gift": 23590602,
-    "status": "异常: HTTPSConnectionPool(host='figure.baidu.com', port=443): Read timed out. (read timeout=10)"
+    "today_gift": 7039,
+    "today_users": 852,
+    "avg": 8.26,
+    "total_gift": 23590826,
+    "status": "成功"
   }
 ]
