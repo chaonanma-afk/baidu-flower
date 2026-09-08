@@ -1,10 +1,10 @@
 {
-  "update_time": "2026-09-08 23:50:40",
+  "update_time": "2026-09-09 00:00:54",
   "today": {
-    "total_points": 2469
+    "total_points": 3
   },
   "yesterday": {
-    "timestamp": "2026-09-07 23:50:39",
-    "total_points": 2539
+    "timestamp": "2026-09-08 00:00:51",
+    "total_points": 6
   }
 }
